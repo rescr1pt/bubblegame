@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\..\src\game\Bubble.cpp" />
+    <ClCompile Include="..\..\src\game\Collision.cpp" />
+    <ClCompile Include="..\..\src\game\Game.cpp" />
+    <ClCompile Include="..\..\src\game\ResourceMgr.cpp" />
+    <ClCompile Include="..\..\src\game\Scene.cpp" />
+    <ClCompile Include="..\..\src\game\ScriptMgr.cpp" />
+    <ClCompile Include="..\..\src\game\scenes\FinishScene.cpp">
+      <Filter>Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\game\scenes\PlayScene.cpp">
+      <Filter>Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\game\scenes\TitleScene.cpp">
+      <Filter>Scenes</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\src\game\Bubble.h" />
+    <ClInclude Include="..\..\src\game\Collision.h" />
+    <ClInclude Include="..\..\src\game\Game.h" />
+    <ClInclude Include="..\..\src\game\ResourceMgr.h" />
+    <ClInclude Include="..\..\src\game\Scene.h" />
+    <ClInclude Include="..\..\src\game\ScriptMgr.h" />
+    <ClInclude Include="..\..\src\game\scenes\FinishScene.h">
+      <Filter>Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\game\scenes\PlayScene.h">
+      <Filter>Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\game\scenes\TitleScene.h">
+      <Filter>Scenes</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Scenes">
+      <UniqueIdentifier>{270c63d9-a590-4079-9af8-86634a69b0ff}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,9 @@
+SimpleBubble - bubble game, written in C++.
+
+The libraries used for developing:
+- SFML (Simple Last Multimedia Library) 
+
+The compiled version of the program is located in the "build/Release" folder.
+
+Copyright (C) 2012 Egorov Oleg (rescr1pt@ya.ru)
+Read the license file: COPYING

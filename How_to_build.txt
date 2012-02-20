@@ -1,0 +1,8 @@
+How to build the SimpleBubble?
+Easy compilation is implemented only for Visual Studio 2011+
+1. Open the project Ssnake.sln
+2. Select the build configuration, Debug/Realise (Debug by default)
+4. Finish
+
+Source code is cross-platform, you can use converters "Visual Studio" project to build source 
+on the other IDE for your OS. Do not forget to change the version of SFML libraries for your compiler.
